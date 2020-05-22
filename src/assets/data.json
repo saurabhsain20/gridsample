@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "image": "NA",
+      "name": "Aakash Institute",
+      "city": "Delhi",
+      "currentRating": 3,
+      "totalRating": 5,
+      "startPrice": "5k",
+      "endPrice": "10K",
+      "courses": ["NEET", "AIIMS"]
+    },
+    {
+      "image": "NA",
+      "name": "Career Point",
+      "city": "Delhi",
+      "currentRating": 3,
+      "totalRating": 5,
+      "startPrice": "5k",
+      "endPrice": "10K",
+      "courses": ["NEET", "AIIMS"]
+    },
+    {
+      "image": "NA",
+      "name": "Resonance Institute",
+      "city": "Gurgaon",
+      "currentRating": 3,
+      "totalRating": 5,
+      "startPrice": "5k",
+      "endPrice": "10K",
+      "courses": ["NEET", "AIIMS"]
+    },
+    {
+      "image": "NA",
+      "name": "Bansal Classes",
+      "city": "Gurgaon",
+      "currentRating": 3,
+      "totalRating": 5,
+      "startPrice": "5k",
+      "endPrice": "10K",
+      "courses": ["NEET", "AIIMS"]
+    },
+    {
+      "image": "NA",
+      "name": "Matrix",
+      "city": "Delhi",
+      "currentRating": 3,
+      "totalRating": 5,
+      "startPrice": "5k",
+      "endPrice": "10K",
+      "courses": ["NEET", "AIIMS"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.header {
+  background-color: #05386b;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 150px;
+  align-items: center;
+  justify-content: center;
+}
+
+.header h2 {
+  color: white;
+  height: 25px;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 3px;
+}
+
+.header p {
+  color: white;
+  height: auto;
+  font-size: small;
+  text-align: center;
+  margin-top: 3px;
+}

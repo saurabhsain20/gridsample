@@ -1,0 +1,84 @@
+.institute-container {
+  display: flex;
+  /* flex: 1; */
+  width: 20vw;
+  margin-right: 20px;
+  justify-content: flex-start;
+}
+
+.container-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  /* border: 1px solid #ccc; */
+  margin-bottom: 5px;
+  background: #ffffff;
+  border: 1px solid #00154f;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.container-box:hover {
+  opacity: 3;
+  background-color: rgb(167, 166, 164);
+}
+
+.left {
+  display: flex;
+  /* width: 50%; */
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.right {
+  display: flex;
+  flex: 2;
+  /* width: 50%; */
+  flex-direction: column;
+  align-self: flex-start;
+}
+.logo-container img {
+  height: 40px;
+}
+
+.upper-part {
+  /* flex: 1; */
+  width: 100%;
+  display: flex;
+}
+
+.lower-part {
+  /* flex: 1; */
+  width: 100%;
+  display: flex;
+}
+
+.details {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  height: 25px;
+  border: 2px solid rgb(35, 35, 150);
+  border-radius: 10px;
+  background-color: antiquewhite;
+  margin: 2px;
+}
+
+.btn:hover {
+  opacity: 2;
+  background-color: blanchedalmond;
+}
+.price {
+  display: flex;
+  flex: 1;
+  align-content: center;
+  justify-content: center;
+  color: #f4af1b;
+}

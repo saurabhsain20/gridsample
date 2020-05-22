@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.outer-container {
+  display: flex;
+  flex: 1;
+  margin: 10%;
+  flex-direction: column;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 50%;
+}
+
+.filter-container {
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: -2%;
+}
+
+.grid-container {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap: wrap;
+}
